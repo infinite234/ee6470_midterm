@@ -1,0 +1,12 @@
+12230
+12234
+ws32
+bdw_work/trace/sim.B.s.trace
+2
+0
+0
+0
+1620151516
+1620151522
+bdw_work/sims/B/sim_B ../lena_std_short.bmp out.bmp
+
