@@ -51,17 +51,17 @@ Here, as the window of 3*3 kernel slides we can see that only thr last column is
 Following is the design of emboss filter in stratus HLS.
 for the splitted inputs           |  for non splitted inputs
 :-------------------------:|:-------------------------:
-![](https://github.com/infinite234/ee6470_hw5-hw6-hw7-hw1/blob/main/hw7/Screenshot%20from%202021-06-29%2011-22-01.png)  |  ![](https://github.com/infinite234/ee6470_hw5-hw6-hw7-hw1/blob/main/hw7/Screenshot%20from%202021-06-29%2011-22-04.png)
+![](https://github.com/infinite234/ee6470_midterm/blob/main/new1.png)  |  ![](https://github.com/infinite234/ee6470_midterm/blob/main/new.png)
 
 Following is the design of emboss filter in SCML Platform
-![source image](https://github.com/infinite234/ee6470-hw2/blob/main/hw2/cache.png)<br/>
+![source image](https://github.com/infinite234/ee6470_midterm/blob/main/new2.png)<br/>
 
 ## Simulation Results
 Following is the simulated cycles in ns for the different types of optimization
-![source image](https://github.com/infinite234/ee6470-hw2/blob/main/hw2/cache.png)<br/>
+![source image](https://github.com/infinite234/ee6470_midterm/blob/main/cycles.PNG)<br/>
 
-Following is the simulated cycles in ns for the different types of optimization
-![source image](https://github.com/infinite234/ee6470-hw2/blob/main/hw2/cache.png)<br/>
+Following is the area in ns for the different types of optimization
+![source image](https://github.com/infinite234/ee6470_midterm/blob/main/area.PNG)<br/>
 
 ## Conclusion
 Thus the area and the simulated cycles are less than that to non reuse data.
